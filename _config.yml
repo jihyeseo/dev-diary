@@ -4,10 +4,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  I will write three blessings per day. 
-  Jeden Tag entdecke und schreibe ich drei schöne Dinge in meinem Alltags. 
-  매일 세가지 좋은 일을 생각하기. 
+description: "Read TLDR and summarize" 
 
 # Build settings
 
